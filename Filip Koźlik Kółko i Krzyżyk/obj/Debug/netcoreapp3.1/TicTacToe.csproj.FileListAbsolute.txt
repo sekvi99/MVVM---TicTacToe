@@ -1,0 +1,60 @@
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Users\Damian\Documents\C#\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\Damian\Documents\C#\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\Damian\Documents\C#\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\Damian\Documents\C#\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\Damian\Documents\C#\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Damian\Documents\C#\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Damian\Documents\C#\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\User\Desktop\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\User\Desktop\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\User\Desktop\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\User\Desktop\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\User\Desktop\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\User\Desktop\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\User\Desktop\Filip Koźlik Kółko i Krzyżyk\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
